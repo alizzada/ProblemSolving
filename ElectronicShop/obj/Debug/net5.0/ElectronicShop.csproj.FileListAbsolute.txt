@@ -1,0 +1,16 @@
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\ElectronicShop\bin\Debug\net5.0\ElectronicShop.exe
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\ElectronicShop\bin\Debug\net5.0\ElectronicShop.deps.json
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\ElectronicShop\bin\Debug\net5.0\ElectronicShop.runtimeconfig.json
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\ElectronicShop\bin\Debug\net5.0\ElectronicShop.runtimeconfig.dev.json
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\ElectronicShop\bin\Debug\net5.0\ElectronicShop.dll
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\ElectronicShop\bin\Debug\net5.0\ref\ElectronicShop.dll
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\ElectronicShop\bin\Debug\net5.0\ElectronicShop.pdb
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\ElectronicShop\obj\Debug\net5.0\ElectronicShop.csprojAssemblyReference.cache
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\ElectronicShop\obj\Debug\net5.0\ElectronicShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\ElectronicShop\obj\Debug\net5.0\ElectronicShop.AssemblyInfoInputs.cache
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\ElectronicShop\obj\Debug\net5.0\ElectronicShop.AssemblyInfo.cs
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\ElectronicShop\obj\Debug\net5.0\ElectronicShop.csproj.CoreCompileInputs.cache
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\ElectronicShop\obj\Debug\net5.0\ElectronicShop.dll
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\ElectronicShop\obj\Debug\net5.0\ref\ElectronicShop.dll
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\ElectronicShop\obj\Debug\net5.0\ElectronicShop.pdb
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\ElectronicShop\obj\Debug\net5.0\ElectronicShop.genruntimeconfig.cache

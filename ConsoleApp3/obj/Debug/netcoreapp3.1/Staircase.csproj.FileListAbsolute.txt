@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\ConsoleApp8\ConsoleApp3\bin\Debug\netcoreapp3.1\Staircase.exe
+C:\Users\user\source\repos\ConsoleApp8\ConsoleApp3\bin\Debug\netcoreapp3.1\Staircase.deps.json
+C:\Users\user\source\repos\ConsoleApp8\ConsoleApp3\bin\Debug\netcoreapp3.1\Staircase.runtimeconfig.json
+C:\Users\user\source\repos\ConsoleApp8\ConsoleApp3\bin\Debug\netcoreapp3.1\Staircase.runtimeconfig.dev.json
+C:\Users\user\source\repos\ConsoleApp8\ConsoleApp3\bin\Debug\netcoreapp3.1\Staircase.dll
+C:\Users\user\source\repos\ConsoleApp8\ConsoleApp3\bin\Debug\netcoreapp3.1\Staircase.pdb
+C:\Users\user\source\repos\ConsoleApp8\ConsoleApp3\obj\Debug\netcoreapp3.1\Staircase.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ConsoleApp8\ConsoleApp3\obj\Debug\netcoreapp3.1\Staircase.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ConsoleApp8\ConsoleApp3\obj\Debug\netcoreapp3.1\Staircase.AssemblyInfo.cs
+C:\Users\user\source\repos\ConsoleApp8\ConsoleApp3\obj\Debug\netcoreapp3.1\Staircase.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApp8\ConsoleApp3\obj\Debug\netcoreapp3.1\Staircase.dll
+C:\Users\user\source\repos\ConsoleApp8\ConsoleApp3\obj\Debug\netcoreapp3.1\Staircase.pdb
+C:\Users\user\source\repos\ConsoleApp8\ConsoleApp3\obj\Debug\netcoreapp3.1\Staircase.genruntimeconfig.cache

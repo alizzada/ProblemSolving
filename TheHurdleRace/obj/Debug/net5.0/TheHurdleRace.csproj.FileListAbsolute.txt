@@ -1,0 +1,16 @@
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\TheHurdleRace\bin\Debug\net5.0\TheHurdleRace.exe
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\TheHurdleRace\bin\Debug\net5.0\TheHurdleRace.deps.json
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\TheHurdleRace\bin\Debug\net5.0\TheHurdleRace.runtimeconfig.json
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\TheHurdleRace\bin\Debug\net5.0\TheHurdleRace.runtimeconfig.dev.json
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\TheHurdleRace\bin\Debug\net5.0\TheHurdleRace.dll
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\TheHurdleRace\bin\Debug\net5.0\ref\TheHurdleRace.dll
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\TheHurdleRace\bin\Debug\net5.0\TheHurdleRace.pdb
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\TheHurdleRace\obj\Debug\net5.0\TheHurdleRace.csprojAssemblyReference.cache
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\TheHurdleRace\obj\Debug\net5.0\TheHurdleRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\TheHurdleRace\obj\Debug\net5.0\TheHurdleRace.AssemblyInfoInputs.cache
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\TheHurdleRace\obj\Debug\net5.0\TheHurdleRace.AssemblyInfo.cs
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\TheHurdleRace\obj\Debug\net5.0\TheHurdleRace.csproj.CoreCompileInputs.cache
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\TheHurdleRace\obj\Debug\net5.0\TheHurdleRace.dll
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\TheHurdleRace\obj\Debug\net5.0\ref\TheHurdleRace.dll
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\TheHurdleRace\obj\Debug\net5.0\TheHurdleRace.pdb
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\TheHurdleRace\obj\Debug\net5.0\TheHurdleRace.genruntimeconfig.cache

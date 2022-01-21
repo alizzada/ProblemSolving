@@ -1,0 +1,15 @@
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\bin\Debug\net5.0\DeleteAndAppend.exe
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\bin\Debug\net5.0\DeleteAndAppend.deps.json
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\bin\Debug\net5.0\DeleteAndAppend.runtimeconfig.json
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\bin\Debug\net5.0\DeleteAndAppend.runtimeconfig.dev.json
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\bin\Debug\net5.0\DeleteAndAppend.dll
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\bin\Debug\net5.0\ref\DeleteAndAppend.dll
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\bin\Debug\net5.0\DeleteAndAppend.pdb
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\obj\Debug\net5.0\DeleteAndAppend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\obj\Debug\net5.0\DeleteAndAppend.AssemblyInfoInputs.cache
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\obj\Debug\net5.0\DeleteAndAppend.AssemblyInfo.cs
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\obj\Debug\net5.0\DeleteAndAppend.csproj.CoreCompileInputs.cache
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\obj\Debug\net5.0\DeleteAndAppend.dll
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\obj\Debug\net5.0\ref\DeleteAndAppend.dll
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\obj\Debug\net5.0\DeleteAndAppend.pdb
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\obj\Debug\net5.0\DeleteAndAppend.genruntimeconfig.cache

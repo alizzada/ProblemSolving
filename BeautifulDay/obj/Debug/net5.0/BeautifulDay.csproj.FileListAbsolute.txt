@@ -1,0 +1,16 @@
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\BeautifulDay\bin\Debug\net5.0\BeautifulDay.exe
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\BeautifulDay\bin\Debug\net5.0\BeautifulDay.deps.json
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\BeautifulDay\bin\Debug\net5.0\BeautifulDay.runtimeconfig.json
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\BeautifulDay\bin\Debug\net5.0\BeautifulDay.runtimeconfig.dev.json
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\BeautifulDay\bin\Debug\net5.0\BeautifulDay.dll
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\BeautifulDay\bin\Debug\net5.0\ref\BeautifulDay.dll
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\BeautifulDay\bin\Debug\net5.0\BeautifulDay.pdb
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\BeautifulDay\obj\Debug\net5.0\BeautifulDay.csprojAssemblyReference.cache
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\BeautifulDay\obj\Debug\net5.0\BeautifulDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\BeautifulDay\obj\Debug\net5.0\BeautifulDay.AssemblyInfoInputs.cache
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\BeautifulDay\obj\Debug\net5.0\BeautifulDay.AssemblyInfo.cs
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\BeautifulDay\obj\Debug\net5.0\BeautifulDay.csproj.CoreCompileInputs.cache
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\BeautifulDay\obj\Debug\net5.0\BeautifulDay.dll
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\BeautifulDay\obj\Debug\net5.0\ref\BeautifulDay.dll
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\BeautifulDay\obj\Debug\net5.0\BeautifulDay.pdb
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\BeautifulDay\obj\Debug\net5.0\BeautifulDay.genruntimeconfig.cache

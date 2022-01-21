@@ -1,0 +1,16 @@
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\FindDigits\bin\Debug\net5.0\FindDigits.exe
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\FindDigits\bin\Debug\net5.0\FindDigits.deps.json
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\FindDigits\bin\Debug\net5.0\FindDigits.runtimeconfig.json
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\FindDigits\bin\Debug\net5.0\FindDigits.runtimeconfig.dev.json
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\FindDigits\bin\Debug\net5.0\FindDigits.dll
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\FindDigits\bin\Debug\net5.0\ref\FindDigits.dll
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\FindDigits\bin\Debug\net5.0\FindDigits.pdb
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\FindDigits\obj\Debug\net5.0\FindDigits.csprojAssemblyReference.cache
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\FindDigits\obj\Debug\net5.0\FindDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\FindDigits\obj\Debug\net5.0\FindDigits.AssemblyInfoInputs.cache
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\FindDigits\obj\Debug\net5.0\FindDigits.AssemblyInfo.cs
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\FindDigits\obj\Debug\net5.0\FindDigits.csproj.CoreCompileInputs.cache
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\FindDigits\obj\Debug\net5.0\FindDigits.dll
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\FindDigits\obj\Debug\net5.0\ref\FindDigits.dll
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\FindDigits\obj\Debug\net5.0\FindDigits.pdb
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\FindDigits\obj\Debug\net5.0\FindDigits.genruntimeconfig.cache

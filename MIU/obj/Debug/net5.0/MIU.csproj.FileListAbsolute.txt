@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\ConsoleApp8\MIU\bin\Debug\net5.0\MIU.exe
+C:\Users\user\source\repos\ConsoleApp8\MIU\bin\Debug\net5.0\MIU.deps.json
+C:\Users\user\source\repos\ConsoleApp8\MIU\bin\Debug\net5.0\MIU.runtimeconfig.json
+C:\Users\user\source\repos\ConsoleApp8\MIU\bin\Debug\net5.0\MIU.runtimeconfig.dev.json
+C:\Users\user\source\repos\ConsoleApp8\MIU\bin\Debug\net5.0\MIU.dll
+C:\Users\user\source\repos\ConsoleApp8\MIU\bin\Debug\net5.0\ref\MIU.dll
+C:\Users\user\source\repos\ConsoleApp8\MIU\bin\Debug\net5.0\MIU.pdb
+C:\Users\user\source\repos\ConsoleApp8\MIU\obj\Debug\net5.0\MIU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ConsoleApp8\MIU\obj\Debug\net5.0\MIU.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ConsoleApp8\MIU\obj\Debug\net5.0\MIU.AssemblyInfo.cs
+C:\Users\user\source\repos\ConsoleApp8\MIU\obj\Debug\net5.0\MIU.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApp8\MIU\obj\Debug\net5.0\MIU.dll
+C:\Users\user\source\repos\ConsoleApp8\MIU\obj\Debug\net5.0\ref\MIU.dll
+C:\Users\user\source\repos\ConsoleApp8\MIU\obj\Debug\net5.0\MIU.pdb
+C:\Users\user\source\repos\ConsoleApp8\MIU\obj\Debug\net5.0\MIU.genruntimeconfig.cache
+C:\Users\user\source\repos\ConsoleApp8\MIU\obj\Debug\net5.0\MIU.csprojAssemblyReference.cache

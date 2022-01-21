@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ConsoleApp8\SortingArrayWithoutSortMethod\bin\Debug\net5.0\SortingArrayWithoutSortMethod.exe
+C:\Users\user\source\repos\ConsoleApp8\SortingArrayWithoutSortMethod\bin\Debug\net5.0\SortingArrayWithoutSortMethod.deps.json
+C:\Users\user\source\repos\ConsoleApp8\SortingArrayWithoutSortMethod\bin\Debug\net5.0\SortingArrayWithoutSortMethod.runtimeconfig.json
+C:\Users\user\source\repos\ConsoleApp8\SortingArrayWithoutSortMethod\bin\Debug\net5.0\SortingArrayWithoutSortMethod.runtimeconfig.dev.json
+C:\Users\user\source\repos\ConsoleApp8\SortingArrayWithoutSortMethod\bin\Debug\net5.0\SortingArrayWithoutSortMethod.dll
+C:\Users\user\source\repos\ConsoleApp8\SortingArrayWithoutSortMethod\bin\Debug\net5.0\ref\SortingArrayWithoutSortMethod.dll
+C:\Users\user\source\repos\ConsoleApp8\SortingArrayWithoutSortMethod\bin\Debug\net5.0\SortingArrayWithoutSortMethod.pdb
+C:\Users\user\source\repos\ConsoleApp8\SortingArrayWithoutSortMethod\obj\Debug\net5.0\SortingArrayWithoutSortMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ConsoleApp8\SortingArrayWithoutSortMethod\obj\Debug\net5.0\SortingArrayWithoutSortMethod.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ConsoleApp8\SortingArrayWithoutSortMethod\obj\Debug\net5.0\SortingArrayWithoutSortMethod.AssemblyInfo.cs
+C:\Users\user\source\repos\ConsoleApp8\SortingArrayWithoutSortMethod\obj\Debug\net5.0\SortingArrayWithoutSortMethod.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApp8\SortingArrayWithoutSortMethod\obj\Debug\net5.0\SortingArrayWithoutSortMethod.dll
+C:\Users\user\source\repos\ConsoleApp8\SortingArrayWithoutSortMethod\obj\Debug\net5.0\ref\SortingArrayWithoutSortMethod.dll
+C:\Users\user\source\repos\ConsoleApp8\SortingArrayWithoutSortMethod\obj\Debug\net5.0\SortingArrayWithoutSortMethod.pdb
+C:\Users\user\source\repos\ConsoleApp8\SortingArrayWithoutSortMethod\obj\Debug\net5.0\SortingArrayWithoutSortMethod.genruntimeconfig.cache

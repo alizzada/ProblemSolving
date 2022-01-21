@@ -1,0 +1,16 @@
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\bin\Debug\net5.0\SavePrisoner.exe
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\bin\Debug\net5.0\SavePrisoner.deps.json
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\bin\Debug\net5.0\SavePrisoner.runtimeconfig.json
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\bin\Debug\net5.0\SavePrisoner.runtimeconfig.dev.json
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\bin\Debug\net5.0\SavePrisoner.dll
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\bin\Debug\net5.0\ref\SavePrisoner.dll
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\bin\Debug\net5.0\SavePrisoner.pdb
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\obj\Debug\net5.0\SavePrisoner.csprojAssemblyReference.cache
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\obj\Debug\net5.0\SavePrisoner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\obj\Debug\net5.0\SavePrisoner.AssemblyInfoInputs.cache
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\obj\Debug\net5.0\SavePrisoner.AssemblyInfo.cs
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\obj\Debug\net5.0\SavePrisoner.csproj.CoreCompileInputs.cache
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\obj\Debug\net5.0\SavePrisoner.dll
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\obj\Debug\net5.0\ref\SavePrisoner.dll
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\obj\Debug\net5.0\SavePrisoner.pdb
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DeleteAndAppend\obj\Debug\net5.0\SavePrisoner.genruntimeconfig.cache

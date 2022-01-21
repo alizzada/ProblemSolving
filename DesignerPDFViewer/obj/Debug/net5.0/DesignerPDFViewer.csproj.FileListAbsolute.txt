@@ -1,0 +1,16 @@
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DesignerPDFViewer\bin\Debug\net5.0\DesignerPDFViewer.exe
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DesignerPDFViewer\bin\Debug\net5.0\DesignerPDFViewer.deps.json
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DesignerPDFViewer\bin\Debug\net5.0\DesignerPDFViewer.runtimeconfig.json
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DesignerPDFViewer\bin\Debug\net5.0\DesignerPDFViewer.runtimeconfig.dev.json
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DesignerPDFViewer\bin\Debug\net5.0\DesignerPDFViewer.dll
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DesignerPDFViewer\bin\Debug\net5.0\ref\DesignerPDFViewer.dll
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DesignerPDFViewer\bin\Debug\net5.0\DesignerPDFViewer.pdb
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DesignerPDFViewer\obj\Debug\net5.0\DesignerPDFViewer.csprojAssemblyReference.cache
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DesignerPDFViewer\obj\Debug\net5.0\DesignerPDFViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DesignerPDFViewer\obj\Debug\net5.0\DesignerPDFViewer.AssemblyInfoInputs.cache
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DesignerPDFViewer\obj\Debug\net5.0\DesignerPDFViewer.AssemblyInfo.cs
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DesignerPDFViewer\obj\Debug\net5.0\DesignerPDFViewer.csproj.CoreCompileInputs.cache
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DesignerPDFViewer\obj\Debug\net5.0\DesignerPDFViewer.dll
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DesignerPDFViewer\obj\Debug\net5.0\ref\DesignerPDFViewer.dll
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DesignerPDFViewer\obj\Debug\net5.0\DesignerPDFViewer.pdb
+C:\Users\Ali.Alizada\source\repos\ConsoleApp8\DesignerPDFViewer\obj\Debug\net5.0\DesignerPDFViewer.genruntimeconfig.cache
